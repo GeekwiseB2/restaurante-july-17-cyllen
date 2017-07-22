@@ -53,3 +53,29 @@ button.btn-warning:hover {
 .carousel-caption {
   margin-bottom: 45px;
 }
+/*OUR STORY STYLES*/
+.rocklobster {
+  font-family: 'Lobster', cursive;
+}
+.year-text {
+  font-size: 12em;
+  z-index: 0;
+  color: rgba(51, 51, 51, .1);
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  position: absolute;
+}
+.lato {
+  font-family: 'Lato', sans-serif;
+}
+#our-story .rocklobster{
+  font-size: 5em;
+  color: #F8512F;
+  text-shadow: 1px 1px 2px #313;
+}
+#our-story h3 {
+  margin-top: 0px;
+}
+#our-story {
+  margin: 10% auto;
+}
