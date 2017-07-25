@@ -9,6 +9,7 @@
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
     background-color: rgba(51, 51, 51, .25);
+     color: #F8512F;
 }
 .navbar-inverse .navbar-nav>active>a:focus .navbar-nav>li>a:focus .navbar-inverse .navbar-nav>li>a:hover {
   background-color: rgba(51, 51, 51, .5);
